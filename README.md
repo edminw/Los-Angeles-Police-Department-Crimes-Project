@@ -25,6 +25,10 @@ Using the
 
 <img width="800" alt="LACrimesOverviewPage" src="https://github.com/user-attachments/assets/3f4a5dd5-0312-4d9e-b470-bd9a70a30290" />
 
+<img width="800" alt="LACrimesTrends" src="https://github.com/user-attachments/assets/3e671958-cfe0-4cef-b66b-e05e9e654576" />
+
+
+
 ## Overview
 
 - 2022 and 2023 had increased crime rates of 71K total crimes compared to 2021. As expected, the number of crimes committed at night from 9PM-4AM were the highest for part of day. 
