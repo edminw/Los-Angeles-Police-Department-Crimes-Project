@@ -23,7 +23,8 @@ Using the
 
 # Executive Summary
 
-<img width="800" alt="LACrimesOverviewPage" src="https://github.com/user-attachments/assets/3f4a5dd5-0312-4d9e-b470-bd9a70a30290" />
+<img width="800" alt="LACrimesOverviewPage" src="https://github.com/user-attachments/assets/025caaf7-9700-4b23-a952-78cc708939b4" />
+
 
 <img width="800" alt="LACrimesTrends" src="https://github.com/user-attachments/assets/3e671958-cfe0-4cef-b66b-e05e9e654576" />
 
