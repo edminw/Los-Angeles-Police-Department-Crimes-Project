@@ -26,13 +26,14 @@ Using the
 <img width="800" alt="LACrimesOverviewPage" src="https://github.com/user-attachments/assets/3f4a5dd5-0312-4d9e-b470-bd9a70a30290" />
 
 ## Overview
-- 2022 and 2023 had increased crime rates of 71K total crimes compared to 2021. As expected, the number of crimes committed at night from 9PM-4AM were the
+
+- 2022 and 2023 had increased crime rates of 71K total crimes compared to 2021. As expected, the number of crimes committed at night from 9PM-4AM were the highest for part of day. 
 - 58.8% of crimes reported for this dataset at the time have been ongoing investigation. This number may have changed from when this dataset was released compared to today. However, having over half of investigations ongoing shows the sheer number of cases that do not get resolved in Los Angeles.
-- When comparing the months 
+- When observing Los Angeles's police districts, the highest number of crimes were reported in a centralized section of neighboring districts consisting of 77th Street, Central, Southwest, Newton, and Southeast. These districts showed roughly a 2x increase in number of crimes compared to other parts of LA.
 
 
 # Recommendations
 
-Based on the insights and findings above, below are some general recommendations and guidelines that we could observe:
+Based on the insights and findings above, below are some general recommendations and guidelines that we could observe: 
 
 - 
