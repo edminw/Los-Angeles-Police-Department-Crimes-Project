@@ -21,20 +21,18 @@ The original dataset was loaded onto a Jupyter Notebook for data cleaning and ex
 Using the 
 
 
-# Executive Summary
+# Executive Summary / Overview
 
 <img width="800" alt="LACrimesOverviewPage" src="https://github.com/user-attachments/assets/025caaf7-9700-4b23-a952-78cc708939b4" />
+
+- 2022 and 2023 had increased crime rates of 71K total crimes compared to 2021. As expected, the number of crimes committed at night from 9PM-4AM were the highest for part of day. 
+- 58.8% of crimes reported for this dataset at the time have been ongoing investigation. This number may have changed from when this dataset was released compared to today. However, having over half of investigations ongoing shows the sheer number of cases that do not get resolved in Los Angeles.
+- When observing Los Angeles's police districts, the highest number of crimes were reported in a centralized section of neighboring districts consisting of 77th Street, Central, Southwest, Newton, and Southeast. These districts showed roughly a 2x increase in number of crimes compared to other parts of LA.
 
 
 <img width="800" alt="LACrimesTrends" src="https://github.com/user-attachments/assets/3e671958-cfe0-4cef-b66b-e05e9e654576" />
 
 
-
-## Overview
-
-- 2022 and 2023 had increased crime rates of 71K total crimes compared to 2021. As expected, the number of crimes committed at night from 9PM-4AM were the highest for part of day. 
-- 58.8% of crimes reported for this dataset at the time have been ongoing investigation. This number may have changed from when this dataset was released compared to today. However, having over half of investigations ongoing shows the sheer number of cases that do not get resolved in Los Angeles.
-- When observing Los Angeles's police districts, the highest number of crimes were reported in a centralized section of neighboring districts consisting of 77th Street, Central, Southwest, Newton, and Southeast. These districts showed roughly a 2x increase in number of crimes compared to other parts of LA.
 
 
 # Recommendations
