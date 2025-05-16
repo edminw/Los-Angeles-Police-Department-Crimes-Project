@@ -25,18 +25,28 @@ Using the
 
 <img width="800" alt="LACrimesOverviewPage" src="https://github.com/user-attachments/assets/025caaf7-9700-4b23-a952-78cc708939b4" />
 
-- 2022 and 2023 had increased crime rates of 71K total crimes compared to 2021. As expected, the number of crimes committed at night from 9PM-4AM were the highest for part of day. 
+
+- 2022 and 2023 had increased crime rates of 71K total crimes compared to 2021 with 64K.
+- Crimes are committed most frequently at night from 9PM-4AM compared to any other time of day. In terms of season, the later summer months to early fall (July-October) show the most activity. 
 - 58.8% of crimes reported for this dataset at the time have been ongoing investigation. This number may have changed from when this dataset was released compared to today. However, having over half of investigations ongoing shows the sheer number of cases that do not get resolved in Los Angeles.
-- When observing Los Angeles's police districts, the highest number of crimes were reported in a centralized section of neighboring districts consisting of 77th Street, Central, Southwest, Newton, and Southeast. These districts showed roughly a 2x increase in number of crimes compared to other parts of LA.
+- When observing Los Angeles's police districts, the highest number of crimes are reported in a centralized section of neighboring districts consisting of 77th Street, Central, Southwest, Newton, and Southeast. These districts show roughly a 2x increase in number of crimes compared to other parts of LA.
 
 
 <img width="800" alt="LACrimesTrends" src="https://github.com/user-attachments/assets/3e671958-cfe0-4cef-b66b-e05e9e654576" />
 
-
+- When comparing the victim's age group with gender, female young adults (18-40 years) are targeted the most. This overall age group (18-40 years) have predominantly the most number of crimes compared to any other age group, with the Adults (40-65 years) group coming in second.
+- Approximately half of the crimes committed (103K) involve victims of Hispanic/Latin/Mexican ethnicity, with victims of Black ethnicity coming in second (47K), and victim of White ethnicity coming in 3rd (36K).
+- There is a negative correlation between the average victim age and total number of crimes based on ethnicity. As the ethnicity group has a higher rate of crime, the average age of the victim goes down.
 
 
 # Recommendations
 
-Based on the insights and findings above, below are some general recommendations and guidelines that we could observe: 
+Based on the insights and findings above, below are some general recommendations and guidelines I would suggest to the LAPD community based on their dataset: 
+- Focus on allocating funds and efforts on preventing crimes during peak months of July to October. Instead of having the same number of officers on duty all-year round, recruit more officers during these months and patrol more areas for early prevention.
+- Ethnic groups experiencing higher crime rates generally have younger victims. Certain early prevention programs or mentorships should be created in schools and youth programs to protect at-risk youth.
+- Central LA districts (77th, Central, Newton) report approximately twice the number of crimes. Prioritize funding and strategic policing in these districts combined with community organizations.
+- 58.8% of crimes remain under investigation. A more streamlined investigative process needs to be implemented in order to bring this dangerously high number down. Different solutions can be tested including more accurate closing resolution records, increased staffing on crime documentation, etc.
 
-- 
+# Future work
+
+Although this dataset provides a general view on what kind of crimes are committed, when these crimes are committed, who these crimes are targeting, and where these crimes are primarily located, it fails to provide more information on more specific insights that can be found. One major shortcoming is that there is a lot of information on what kind of victims fall prey to these crimes, but there is little to no description on the assailants. For instance, although we know the Hispanic/Latin/Mexican community accounts for half of LA's crimes, are these crimes committed within the same Hispanic community? Or do these communities just live in areas where higher crime exists regardless of ethnicity? The highest crime rate is recorded on victims falling in the young adult female group, but which group commits the most crime? Furthermore, over half of the incidents are marked as "under investigation", which signifies that most likely a considerable portion of these records are missing final updates. Finally, there is an apparent lack of socioeconomic data to go along with the demographic data this dataset has provided. Variables including income levels, education, employment rates, and housing stability are often key contributors to crime, and combining such factors with demographics can paint a much clearer picture.
