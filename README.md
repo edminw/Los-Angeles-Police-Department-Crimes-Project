@@ -23,7 +23,7 @@ Using the
 
 # Executive Summary / Overview
 
-<img width="800" alt="LACrimesOverviewPage" src="https://github.com/user-attachments/assets/025caaf7-9700-4b23-a952-78cc708939b4" />
+<img width="800" alt="LACrimesOverviewPage" src="https://github.com/user-attachments/assets/025caaf7-9700-4b23-a952-78cc708939b4" />\
 
 
 - 2022 and 2023 had increased crime rates of 71K total crimes compared to 2021 with 64K.
@@ -32,7 +32,7 @@ Using the
 - When observing Los Angeles's police districts, the highest number of crimes are reported in a centralized section of neighboring districts consisting of 77th Street, Central, Southwest, Newton, and Southeast. These districts show roughly a 2x increase in number of crimes compared to other parts of LA.
 
 
-<img width="800" alt="LACrimesTrends" src="https://github.com/user-attachments/assets/3e671958-cfe0-4cef-b66b-e05e9e654576" />
+<img width="800" alt="LACrimesTrends" src="https://github.com/user-attachments/assets/3e671958-cfe0-4cef-b66b-e05e9e654576" />\
 
 - When comparing the victim's age group with gender, female young adults (18-40 years) are targeted the most. This overall age group (18-40 years) have predominantly the most number of crimes compared to any other age group, with the Adults (40-65 years) group coming in second.
 - Approximately half of the crimes committed (103K) involve victims of Hispanic/Latin/Mexican ethnicity, with victims of Black ethnicity coming in second (47K), and victim of White ethnicity coming in 3rd (36K).
