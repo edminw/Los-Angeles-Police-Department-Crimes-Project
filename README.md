@@ -23,8 +23,9 @@ Using the
 
 # Executive Summary / Overview
 
-<img width="800" alt="LACrimesOverviewPage" src="https://github.com/user-attachments/assets/025caaf7-9700-4b23-a952-78cc708939b4" />\
-
+<div align="center">
+  <img width="600" alt="LACrimesOverviewPage" src="https://github.com/user-attachments/assets/025caaf7-9700-4b23-a952-78cc708939b4" />\
+</div>
 
 - 2022 and 2023 had increased crime rates of 71K total crimes compared to 2021 with 64K.
 - Crimes are committed most frequently at night from 9PM-4AM compared to any other time of day. In terms of season, the later summer months to early fall (July-October) show the most activity. 
@@ -32,7 +33,7 @@ Using the
 - When observing Los Angeles's police districts, the highest number of crimes are reported in a centralized section of neighboring districts consisting of 77th Street, Central, Southwest, Newton, and Southeast. These districts show roughly a 2x increase in number of crimes compared to other parts of LA.  
 
 <div align="center">
-  <img width="800" alt="LACrimesTrends" src="https://github.com/user-attachments/assets/3e671958-cfe0-4cef-b66b-e05e9e654576" />\
+  <img width="600" alt="LACrimesTrends" src="https://github.com/user-attachments/assets/3e671958-cfe0-4cef-b66b-e05e9e654576" />\
 </div>
 
 - When comparing the victim's age group with gender, female young adults (18-40 years) are targeted the most. This overall age group (18-40 years) have predominantly the most number of crimes compared to any other age group, with the Adults (40-65 years) group coming in second.
