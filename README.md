@@ -31,8 +31,9 @@ Using the
 - 58.8% of crimes reported for this dataset at the time have been ongoing investigation. This number may have changed from when this dataset was released compared to today. However, having over half of investigations ongoing shows the sheer number of cases that do not get resolved in Los Angeles.
 - When observing Los Angeles's police districts, the highest number of crimes are reported in a centralized section of neighboring districts consisting of 77th Street, Central, Southwest, Newton, and Southeast. These districts show roughly a 2x increase in number of crimes compared to other parts of LA.  
 
-
-<img width="800" alt="LACrimesTrends" src="https://github.com/user-attachments/assets/3e671958-cfe0-4cef-b66b-e05e9e654576" />\
+<div align="center">
+  <img width="800" alt="LACrimesTrends" src="https://github.com/user-attachments/assets/3e671958-cfe0-4cef-b66b-e05e9e654576" />\
+</div>
 
 - When comparing the victim's age group with gender, female young adults (18-40 years) are targeted the most. This overall age group (18-40 years) have predominantly the most number of crimes compared to any other age group, with the Adults (40-65 years) group coming in second.
 - Approximately half of the crimes committed (103K) involve victims of Hispanic/Latin/Mexican ethnicity, with victims of Black ethnicity coming in second (47K), and victim of White ethnicity coming in 3rd (36K).
