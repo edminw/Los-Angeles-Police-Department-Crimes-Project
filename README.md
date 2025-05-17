@@ -27,6 +27,7 @@ Using the
   <img width="700" alt="LACrimesOverviewPage" src="https://github.com/user-attachments/assets/025caaf7-9700-4b23-a952-78cc708939b4" />\
 </div>
 
+Overview
 - 2022 and 2023 had increased crime rates of 71K total crimes compared to 2021 with 64K.
 - Crimes are committed most frequently at night from 9PM-4AM compared to any other time of day. In terms of season, the later summer months to early fall (July-October) show the most activity. 
 - 58.8% of crimes reported for this dataset at the time have been ongoing investigation. This number may have changed from when this dataset was released compared to today. However, having over half of investigations ongoing shows the sheer number of cases that do not get resolved in Los Angeles.
@@ -36,6 +37,7 @@ Using the
   <img width="700" alt="LACrimesTrends" src="https://github.com/user-attachments/assets/3e671958-cfe0-4cef-b66b-e05e9e654576" />\
 </div>
 
+Insights
 - When comparing the victim's age group with gender, female young adults (18-40 years) are targeted the most. This overall age group (18-40 years) have predominantly the most number of crimes compared to any other age group, with the Adults (40-65 years) group coming in second.
 - Approximately half of the crimes committed (103K) involve victims of Hispanic/Latin/Mexican ethnicity, with victims of Black ethnicity coming in second (47K), and victim of White ethnicity coming in 3rd (36K).
 - There is a negative correlation between the average victim age and total number of crimes based on ethnicity. As the ethnicity group has a higher rate of crime, the average age of the victim goes down.  
