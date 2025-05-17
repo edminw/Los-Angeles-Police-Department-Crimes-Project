@@ -18,7 +18,7 @@ Some key objective questions I would like to address are listed below:
 
 The original dataset was loaded onto a Jupyter Notebook for data cleaning and exploration. The file can be found here [link](https://github.com/edminw/Los-Angeles-Police-Department-Crimes-Project/blob/main/crimes_data_etl.ipynb).
 
-Using the 
+
 
 
 # Executive Summary / Overview
